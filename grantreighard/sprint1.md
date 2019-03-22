@@ -8,7 +8,7 @@ This Sprint, I helped with the product canvas and building out the back end alon
 
 For the login API, I referred to old code to get the JWT (JSON web token) and bcrypt going properly. I required (used) three things, the database, JWT, and bcrypt, the hashing package. Then I have a function for generating a token that takes in a user from the database as an argument. Lastly, I have a login endpoint, which is a GET method. It pulls in the username and password from the request body, then queries the database for the first user where the username matches one in the database. If there is a user and the passwords match, a JSON web token is returned. Otherwise, you get an error message back: “You shall not pass!” There’s also a catch for any errors that might happen.
 
-![login code](/images/login-code.png)
+![login code](https://github.com/classroom-angel/blogs/blob/master/grantreighard/images/login-code.png)
 
 ## Milestone Reflections
 
@@ -26,5 +26,5 @@ I helped with a bunch of the parts of the product canvas/technical design docume
 - No pull request for this one, I merged into our development branch without making a feature branch.
 
 - [Create knex config and database config Trello](https://trello.com/c/t3B0gGe6)
-- [Create knex config and database config Trello](https://github.com/classroom-angel/labs11_prop_mngmt-BE/pull/5)
+- [Create knex config and database config PR](https://github.com/classroom-angel/labs11_prop_mngmt-BE/pull/5)
 
