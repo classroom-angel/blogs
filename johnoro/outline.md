@@ -15,4 +15,4 @@ Pick one of your tickets and provide a detailed analysis of the work you did. Th
 
 ## Milestone Reflections
 
-Write ¼ to ½ a page reflecting on your experiences forming a team. What did you do to help the team solidify as a group? What did you do that you now realize caused friction in this process? What are you doing personally to make sure that everyone on the team, including you, has a voice in decision making?
+Write ¼ to ½ a page reflecting on your experiences with this sprint's specific goals.
